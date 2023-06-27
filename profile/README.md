@@ -16,6 +16,8 @@
 
 [Lineare Algebra 1/2](https://github.com/ETH-D-MAVT-Cheatsheets/LineareAlgebra_Hungerbuehler_2023/releases/latest)
 
+[Maschinenkonstruktion](https://github.com/ETH-D-MAVT-Cheatsheets/Maschinenkonstruktion_Mebold_2023/releases/latest)
+
 ## Getting started
 
 This [template](https://github.com/ETH-D-MAVT-Cheatsheets/ZF-Template) will get you started on a new cheatsheet.
