@@ -18,6 +18,8 @@
 
 [Maschinenkonstruktion](https://github.com/ETH-D-MAVT-Cheatsheets/Maschinenkonstruktion_Mebold_2023/releases/latest)
 
+[Informatik 2](https://github.com/ETH-D-MAVT-Cheatsheets/Informatik2_Sasse_Cotrini_2023/releases/latest)
+
 ## Getting started
 
 This [template](https://github.com/ETH-D-MAVT-Cheatsheets/ZF-Template) will get you started on a new cheatsheet.
